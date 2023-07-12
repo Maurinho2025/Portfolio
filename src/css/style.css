@@ -32,7 +32,7 @@ body {
 
 section.home {
   background-image: linear-gradient(#242424, #242424e7),
-    url("/src/img/home.jpg");
+    url("../img/home.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -272,7 +272,7 @@ input[type="button"]:active {
 
 section.about {
   background-image: linear-gradient(#242424ec, #242424e7),
-    url("/src/img/about.jpg");
+    url("../img/about.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -346,7 +346,7 @@ section.about .container__about .tecnologias img {
 
 section.projects {
   background-image: linear-gradient(#242424ec, #242424e7),
-    url("/src/img/projects.jpg");
+    url("../img/projects.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
