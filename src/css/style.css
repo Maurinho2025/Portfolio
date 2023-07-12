@@ -413,7 +413,7 @@ section.projects {
 
 section.contact {
   background-image: linear-gradient(#242424ec, #242424e7),
-    url("/src/img/contact.jpg");
+    url("../img/contact.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
